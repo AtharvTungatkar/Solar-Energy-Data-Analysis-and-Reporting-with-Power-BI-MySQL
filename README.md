@@ -1,0 +1,1 @@
+# Solar-Energy-Data-Analysis-and-Reporting-with-Power-BI-MySQL
